@@ -1,0 +1,22 @@
+{
+  "name": "pokemon",
+  "version": "1.0.1",
+  "description": "BackEnd: Extrair todos os Pokemon da listagem de 1 ~ 151",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server pokemons.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieldarezzo/pokemon-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieldarezzo/pokemon-api/issues"
+  },
+  "homepage": "https://github.com/gabrieldarezzo/pokemon-api#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
